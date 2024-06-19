@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sourabh singh(Kaizen)</h1>
+<h1 align="center">Hi 👋, I'm Sourabh singh</h1>
 <h3 align="center">If at first you don't succeed, call it version 1.0</h3>
 <img align="centre" alt="coding" width="500" src="https://cdn.dribbble.com/users/44515/screenshots/3223431/hoc-dribbble-svg.gif">
 
