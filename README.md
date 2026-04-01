@@ -1,36 +1,86 @@
-<h1 align="center">Hi 👋, I'm Sourabh singh</h1>
-<h3 align="center">If at first you don't succeed, call it version 1.0</h3>
-<img align="centre" alt="coding" width="500" src="https://cdn.dribbble.com/users/44515/screenshots/3223431/hoc-dribbble-svg.gif">
+# Hi, I'm Sourabh Singh Chuphal 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabh-5&label=Profile%20views&color=0e75b6&style=flat" alt="sourabh-5" /> </p>
+**Data Analyst · Cloud Engineer · AI Enthusiast**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourabh-5" alt="sourabh-5" /></a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sourabh_Singh_Chuphal-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/sourabh-singh-chuphal/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode)](https://leetcode.com/)
+[![IEEE](https://img.shields.io/badge/IEEE_Xplore-Published_2025-00629B?style=flat&logo=ieee)](https://ieeexplore.ieee.org/)
 
-<p align="left"> <a href="https://twitter.com/gin24420920" target="blank"><img src="https://img.shields.io/twitter/follow/gin24420920?logo=twitter&style=for-the-badge" alt="gin24420920" /></a> </p>
+---
 
-- 🔭 I’m currently working on **learning, growing, improving**
+## 🚀 About Me
 
-- 🌱 I’m currently learning **Node.js,Swift**
+- 🎓 B.Tech Computer Science @ **SRM Institute of Science & Technology** (2025)
+- 📊 Building analytics pipelines with **SQL (BigQuery) · Python · Power BI**
+- ☁️ Oracle Certified: **DevOps Professional** + **Generative AI Professional** (OCI 2025)
+- 🔬 Published researcher on **IEEE Xplore (2025)**
+- 🏭 Former intern @ **Intel Corporation** & **IBM Cloud (Edunet/AICTE)**
+- 📍 Based in Hyderabad, India | Open to remote & hybrid roles
 
-- 👯 I’m looking to collaborate on **front end projects**
+---
 
-- 🤝 I’m looking for help with **bootstrap,react**
+## 🛠️ Tech Stack
 
-- 📫 How to reach me **sourabhchufal4141@gmail.com**
+**Data & Analytics**
+![SQL](https://img.shields.io/badge/SQL-BigQuery-4285F4?style=flat&logo=google-cloud)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python)
+![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?style=flat&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel)
 
-- ⚡ Fun fact **Coding ninja with a sense of humor**
+**Cloud & DevOps**
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-OCI-F80000?style=flat&logo=oracle)
+![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-Watson-1261FE?style=flat&logo=ibm)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gin24420920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gin24420920" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sourabh-singh-693a57253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourabh-singh-693a57253" height="30" width="40" /></a>
-<a href="https://discord.gg/KA1Z3N#8401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KA1Z3N#8401" height="30" width="40" /></a>
-</p>
+**Libraries**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
+![MATLAB](https://img.shields.io/badge/MATLAB-R2024-0076A8?style=flat)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/at starbucks :)"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="at starbucks :)" /></a></p><br><br>
+## 🏆 Certifications
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourabh-5&show_icons=true&locale=en" alt="sourabh-5" /></p>
+| Certification | Issuer | Year |
+|---|---|---|
+| OCI 2025 Certified DevOps Professional | Oracle | 2025 |
+| OCI 2025 Certified Generative AI Professional | Oracle | 2025 |
+| OCI 2024 Certified Foundations Associate | Oracle | 2025 |
+| OCI 2024 AI Foundations Associate | Oracle | 2025 |
+| IBM SkillsBuild — AI & Cloud Technologies | IBM / AICTE | 2025 |
+
+---
+
+## 📌 Featured Projects
+
+### 📊 Marketing Campaign Analytics Dashboard
+> SQL (BigQuery) · Python · Power BI
+
+Built an end-to-end analytics pipeline aggregating CRM and digital-platform data.
+Developed a real-time Power BI dashboard tracking customer response rates and ROI.
+**Key insight:** Identified a 15% funnel drop-off and recommended optimisation strategies.
+
+---
+
+### 🔬 IEEE Research Publication (2025)
+> Data Analysis · Technical Writing · Peer Review
+
+Peer-reviewed paper accepted and published on IEEE Xplore.
+Demonstrates ability to design experiments, analyse data, and communicate findings.
+
+---
+
+## 📈 GitHub Stats
+
+![Sourabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true)
+
+---
+
+## 📬 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sourabh-singh-chuphal/)
+- 📧 sourabhchufal4141@gmail.com
+- 🧩 [LeetCode](https://leetcode.com/)
+
+*Open to Data Analyst, Business Analyst, and Cloud Analytics roles. Referrals welcome!*
